@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "sample-erp_jwtPrivateKey",
+    "db": "sample-erp_db"
+}
